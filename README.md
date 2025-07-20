@@ -133,7 +133,7 @@ Visit [http://localhost:3000](http://localhost:3000) to view the project.
 
 ## 📎 Assets
 
-Assets like banners, illustrations, and UI kits used in the project can be found in the `/public` folder or within the tutorial kit (if applicable).
+Assets like banners, illustrations, and UI kits used in the project can be found in the `/public` folder.
 
 ---
 
