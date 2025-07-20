@@ -144,7 +144,7 @@ Assets like banners, illustrations, and UI kits used in the project can be found
 * [Stripe Docs](https://stripe.com/docs)
 * [Vapi AI](https://vapi.ai)
 * [shadcn/ui](https://ui.shadcn.com)
-* [JavaScript Mastery YouTube](https://www.youtube.com/@javascriptmastery)
+
 
 ---
 
