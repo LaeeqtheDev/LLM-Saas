@@ -80,7 +80,7 @@ Make sure you have the following installed:
 ### ⬇️ Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/companion-builder.git
+git clone https://github.com/LaeeqtheDev/LLM-Saas.git
 cd companion-builder
 ````
 
