@@ -30,7 +30,7 @@ const CompanionsList = ({id, name, topic, subject, duration, color}: Companionca
         <p className='text-sm'>{duration} minutes</p>
       </div>
 
-      <Link href={`/components/${id}`} className='w-fit'>
+      <Link href={`/companions/${id}`} className='w-fit'>
         <button className='btn-primary w-full justify-center'>
           Launch Lession
         </button>
