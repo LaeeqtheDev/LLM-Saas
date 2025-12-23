@@ -1,12 +1,14 @@
-import { NextConfig } from "next";
-
-const nextConfig: NextConfig = {
-  images: {
-    remotePatterns: [{ hostname: "img.clerk.com" }],
-  },
+const nextConfig = {
   eslint: {
-    ignoreDuringBuilds: true,
+    ignoreDuringBuilds: true, // ignore lint errors during build
   },
-} as any; // <<<<< bypass type check
+  images: {
+    remotePatterns: [
+      {
+        hostname: "img.clerk.com", // allow Clerk images
+      },
+    ],
+  },
+};
 
 export default nextConfig;
