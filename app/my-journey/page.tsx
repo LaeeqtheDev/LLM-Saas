@@ -9,7 +9,7 @@ import { redirect } from "next/navigation";
 import {
   getUserCompanions,
   getUserSessions,
-  getBookmarkedCompanions,
+  // getBookmarkedCompanions,
 } from "@/lib/actions/companion.action";
 import Image from "next/image";
 import CompanionsList from "@/components/CompanionsList";

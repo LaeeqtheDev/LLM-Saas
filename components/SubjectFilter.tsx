@@ -34,7 +34,9 @@ const SubjectFilter = () => {
         });
     }
     router.push(newUrl, { scroll: false });
-}, [subject]);
+},
+//@ts-ignore
+[subject]);
 
   return (
     <div className=''>

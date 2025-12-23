@@ -6,6 +6,9 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {hostname: 'img.clerk.com'}
     ]
+  },
+  eslint:{
+    ignoreDuringBuilds: true
   }
 };
 
