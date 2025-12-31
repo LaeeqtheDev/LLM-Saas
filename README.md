@@ -1,6 +1,6 @@
 
 
-# 🧠 Companion Builder – AI-Powered LMS SaaS
+# 🧠 Companion Builder (Converso) – AI-Powered LMS SaaS
 
 Built with **Next.js 14**, **Supabase**, **Clerk**, **Stripe**, **Vapi AI**, and **Tailwind**
 
@@ -148,10 +148,9 @@ Assets like banners, illustrations, and UI kits used in the project can be found
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Documentation
 
-I built this LMS SaaS platform to sharpen my fullstack skills across **auth, payments, real-time data**, and **voice AI integration**. This project reflects both frontend engineering and backend systems design capabilities.
-
+https://docs.google.com/document/d/1uUbBC-R60HU_6iEPwWnXLsbGd5jI8c0gMQkcNVlkopE/edit?usp=sharing
 ---
 
 
