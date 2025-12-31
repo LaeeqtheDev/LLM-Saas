@@ -1,5 +1,7 @@
 import { clerkMiddleware } from '@clerk/nextjs/server';
 
+// Clerk Auth
+
 export default clerkMiddleware();
 
 export const config = {
@@ -10,3 +12,4 @@ export const config = {
     '/(api|trpc)(.*)',
   ],
 };
+
